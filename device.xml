@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="vendor/sony/kitakami-common" name="Sony-SO03H-development/android_device_sony_kitakami-common" remote="github" revision="lineage-18.1" />
+  <project path="device/sony/kitakami-common" name="Sony-SO03H-development/android_device_sony_kitakami-common" remote="github" revision="lineage-18.1" />
   <project path="device/sony/satsuki/" name="Sony-SO03H-development/android_device_sony_satsuki" remote="github" revision="lineage-18.1" />
   <project path="kernel/sony/msm8994" name="Sony-SO03H-development/android_kernel_sony_msm8994_rework" remote="github" revision="lineage-18.1" />
 </manifest>
